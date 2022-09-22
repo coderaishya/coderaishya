@@ -1,24 +1,12 @@
 ### Hi there,  I'm Coder Aishya👋
-
-<!--
-**coderaishya/coderaishya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_________________________________________________________________________________________________________________________________________________________________________
 
 - Front end Development Enthusiastic 
 - 5+ yrs of Experience
-- Expertise in Angular, Html5, Css3, Bootstrap 4 & 5
-- Good in UI/UX designing skills
+- Expertise in Angular, Html5, Css3, Sass,Flexbox, Bootstrap 4 & 5, Github
+- Good in UI/UX designing skills(Photoshop,Canva)
+- Worked on Website development using Wordpress
+- Reactjs Learner
  
 I like to share knowlege about my frontend skills, So I have an instagram page named @coderaishya where I upload frontend tips and tricks along with 
 concepts to enhance your skills. Do checkout my page on instagram for the same. 
