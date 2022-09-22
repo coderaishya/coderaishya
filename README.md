@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Front end Development Enthusiastic 
+- 5+ yrs of Experience
+- Expertise in Angular, Html5, Css3, Bootstrap 4 & 5
+- Good in UI/UX designing skills
+ 
+I like to share knowlege about my frontend skills, So I have an instagram page named @coderaishya where I upload frontend tips and tricks along with 
+concepts to enhance your skills. Do checkout my page on instagram for the same. 
+
+Instagram : https://www.instagram.com/coder_aishya/
