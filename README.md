@@ -17,8 +17,7 @@ Technical Skills:
 [![My Skills](https://skillicons.dev/icons?i=angular,js,html,css,bootstrap,git,gitlab,jquery,wordpress&theme=light)](https://github.com/coderaishya)
 
 _________________________________________________________________________________________________________________________________________________________________________
-
-Connect with me: 
+ #### Connect with me:
 
 I like to share knowlege about my frontend skills, So I have an instagram page named @coderaishya where I upload frontend tips and tricks along with 
 concepts to enhance your skills. Do checkout my page on instagram for the same  
