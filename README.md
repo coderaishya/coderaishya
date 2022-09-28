@@ -9,6 +9,7 @@ ________________________________________________________________________________
 - Reactjs Learner
 
 Pursuing MBA in IT management & BSC in Computer Science Graduate.
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 I like to share knowlege about my frontend skills, So I have an instagram page named @coderaishya where I upload frontend tips and tricks along with 
