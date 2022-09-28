@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 
 _________________________________________________________________________________________________________________________________________________________________________
-Technical Skills:
+#### Technical Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=angular,js,html,css,bootstrap,git,gitlab,jquery,wordpress&theme=light)](https://github.com/coderaishya)
 
