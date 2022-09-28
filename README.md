@@ -1,4 +1,4 @@
-### Hi there,  I'm Coder Aishya👋
+### Hi there  👋,  I'm Coder Aishya :smiley:
 _________________________________________________________________________________________________________________________________________________________________________
 
 - Front end Development Enthusiastic 
@@ -7,7 +7,7 @@ ________________________________________________________________________________
 - Expertise in Angular 6+, Javascript , Typescript, Html5, Css3, Sass, Flexbox, Bootstrap 4 & 5, Github
 - Good in UI/UX designing skills (Photoshop,Canva,Figma)
 - Worked on Website development using Wordpress
-- Reactjs Learner
+- MEAN stack learner
 
 
 
