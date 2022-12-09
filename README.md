@@ -23,3 +23,5 @@ I like to share knowlege about my frontend skills, So I have an instagram page n
 concepts to enhance your skills. Do checkout my page on instagram for the same  
 
 Instagram : https://www.instagram.com/coder_aishya/
+
+Also you can mail me on coderaishya@gmail.com for Collaborations, Paid Promotions, or frontend related queries
