@@ -4,7 +4,7 @@ ________________________________________________________________________________
 - Front end Development Enthusiastic 
 - 8+ yrs of Experience
 - Pursued MBA in IT management & BSC in Computer Science Graduate
-- Expertise in Angular 16+, Javascript , Typescript,Jquery, Html5, Css3, Sass, Flexbox, Bootstrap, Github,SVN
+- Expertise in Angular 16+, Javascript , Typescript, Jquery, Html5, Css3, Sass, Flexbox, Bootstrap, Github,SVN
 - Good in UI/UX designing skills (Figma,Canva,Photoshop)
 - Worked on Website development using Wordpress
 - MEAN stack learner
